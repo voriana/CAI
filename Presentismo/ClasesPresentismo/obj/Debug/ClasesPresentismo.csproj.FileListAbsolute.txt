@@ -1,0 +1,6 @@
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ClasesPresentismo\bin\Debug\ClasesPresentismo.dll
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ClasesPresentismo\bin\Debug\ClasesPresentismo.pdb
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ClasesPresentismo\obj\Debug\ClasesPresentismo.csproj.AssemblyReference.cache
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ClasesPresentismo\obj\Debug\ClasesPresentismo.csproj.CoreCompileInputs.cache
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ClasesPresentismo\obj\Debug\ClasesPresentismo.dll
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ClasesPresentismo\obj\Debug\ClasesPresentismo.pdb

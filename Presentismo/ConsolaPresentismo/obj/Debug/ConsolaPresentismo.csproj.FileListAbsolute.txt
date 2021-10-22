@@ -1,0 +1,10 @@
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\bin\Debug\ConsolaPresentismo.exe.config
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\bin\Debug\ConsolaPresentismo.exe
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\bin\Debug\ConsolaPresentismo.pdb
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\bin\Debug\ClasesPresentismo.dll
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\bin\Debug\ClasesPresentismo.pdb
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\obj\Debug\ConsolaPresentismo.csproj.AssemblyReference.cache
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\obj\Debug\ConsolaPresentismo.csproj.CoreCompileInputs.cache
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\obj\Debug\ConsolaPresentismo.csproj.CopyComplete
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\obj\Debug\ConsolaPresentismo.exe
+C:\Users\ov_e90330\Documents\GitHub\CAI\Presentismo\ConsolaPresentismo\obj\Debug\ConsolaPresentismo.pdb
