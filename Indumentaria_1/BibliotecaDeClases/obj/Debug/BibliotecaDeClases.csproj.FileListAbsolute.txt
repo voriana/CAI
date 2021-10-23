@@ -1,0 +1,6 @@
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

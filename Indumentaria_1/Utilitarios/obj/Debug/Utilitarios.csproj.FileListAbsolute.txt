@@ -1,0 +1,6 @@
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Utilitarios\obj\Debug\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Utilitarios\obj\Debug\Utilitarios.pdb

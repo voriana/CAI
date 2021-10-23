@@ -1,0 +1,14 @@
+C:\Users\orian\Documents\GitHub\Indumentaria\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\bin\Debug\Consola.exe.config
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\bin\Debug\Consola.exe
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\bin\Debug\Consola.pdb
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\bin\Debug\BibliotecaDeClases.dll
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\bin\Debug\Utilitarios.dll
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\bin\Debug\Utilitarios.pdb
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\obj\Debug\Consola.exe
+C:\Users\orian\Documents\GitHub\Indumentaria\Indumentaria\Consola\obj\Debug\Consola.pdb
