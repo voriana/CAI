@@ -1,0 +1,6 @@
+C:\Users\orian\Documents\GitHub\CAI\Facultad\ClasesFacultad\bin\Debug\ClasesFacultad.dll
+C:\Users\orian\Documents\GitHub\CAI\Facultad\ClasesFacultad\bin\Debug\ClasesFacultad.pdb
+C:\Users\orian\Documents\GitHub\CAI\Facultad\ClasesFacultad\obj\Debug\ClasesFacultad.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\CAI\Facultad\ClasesFacultad\obj\Debug\ClasesFacultad.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\CAI\Facultad\ClasesFacultad\obj\Debug\ClasesFacultad.dll
+C:\Users\orian\Documents\GitHub\CAI\Facultad\ClasesFacultad\obj\Debug\ClasesFacultad.pdb

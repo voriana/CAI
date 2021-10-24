@@ -1,0 +1,10 @@
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\bin\Debug\InterfazFacultad.exe.config
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\bin\Debug\InterfazFacultad.exe
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\bin\Debug\InterfazFacultad.pdb
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\bin\Debug\ClasesFacultad.dll
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\bin\Debug\ClasesFacultad.pdb
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\obj\Debug\InterfazFacultad.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\obj\Debug\InterfazFacultad.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\obj\Debug\InterfazFacultad.csproj.CopyComplete
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\obj\Debug\InterfazFacultad.exe
+C:\Users\orian\Documents\GitHub\CAI\Facultad\InterfazFacultad\obj\Debug\InterfazFacultad.pdb
