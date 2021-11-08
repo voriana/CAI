@@ -36,14 +36,14 @@ namespace ClienteCapaPresentacion
             this._lbEmail = new System.Windows.Forms.Label();
             this._txbEmail = new System.Windows.Forms.TextBox();
             this._lbFecNac = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this._txtFechaNac = new System.Windows.Forms.TextBox();
             this._rbClienteActivo = new System.Windows.Forms.RadioButton();
             this._lbNombrecliente = new System.Windows.Forms.Label();
             this._txbNombreCliente = new System.Windows.Forms.TextBox();
             this._lbApellidoCliente = new System.Windows.Forms.Label();
             this._txbApellidoCliente = new System.Windows.Forms.TextBox();
             this._lbDireccion = new System.Windows.Forms.Label();
-            this._txbDireccion = new System.Windows.Forms.TextBox();
+            this._txtDireccion = new System.Windows.Forms.TextBox();
             this._lbTelefono = new System.Windows.Forms.Label();
             this._txbTelefono = new System.Windows.Forms.TextBox();
             this._btnGuardar = new System.Windows.Forms.Button();
@@ -108,12 +108,12 @@ namespace ClienteCapaPresentacion
             this._lbFecNac.TabIndex = 6;
             this._lbFecNac.Text = "Fecha Nacimiento";
             // 
-            // textBox1
+            // _txtFechaNac
             // 
-            this.textBox1.Location = new System.Drawing.Point(162, 176);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 7;
+            this._txtFechaNac.Location = new System.Drawing.Point(162, 176);
+            this._txtFechaNac.Name = "_txtFechaNac";
+            this._txtFechaNac.Size = new System.Drawing.Size(100, 20);
+            this._txtFechaNac.TabIndex = 7;
             // 
             // _rbClienteActivo
             // 
@@ -167,12 +167,12 @@ namespace ClienteCapaPresentacion
             this._lbDireccion.TabIndex = 13;
             this._lbDireccion.Text = "Direccion";
             // 
-            // _txbDireccion
+            // _txtDireccion
             // 
-            this._txbDireccion.Location = new System.Drawing.Point(452, 133);
-            this._txbDireccion.Name = "_txbDireccion";
-            this._txbDireccion.Size = new System.Drawing.Size(100, 20);
-            this._txbDireccion.TabIndex = 14;
+            this._txtDireccion.Location = new System.Drawing.Point(452, 133);
+            this._txtDireccion.Name = "_txtDireccion";
+            this._txtDireccion.Size = new System.Drawing.Size(100, 20);
+            this._txtDireccion.TabIndex = 14;
             // 
             // _lbTelefono
             // 
@@ -217,6 +217,7 @@ namespace ClienteCapaPresentacion
             this._btnVolver.TabIndex = 19;
             this._btnVolver.Text = "Volver";
             this._btnVolver.UseVisualStyleBackColor = true;
+            this._btnVolver.Click += new System.EventHandler(this._btnVolver_Click);
             // 
             // FrmAgregarCliente
             // 
@@ -228,14 +229,14 @@ namespace ClienteCapaPresentacion
             this.Controls.Add(this._btnGuardar);
             this.Controls.Add(this._txbTelefono);
             this.Controls.Add(this._lbTelefono);
-            this.Controls.Add(this._txbDireccion);
+            this.Controls.Add(this._txtDireccion);
             this.Controls.Add(this._lbDireccion);
             this.Controls.Add(this._txbApellidoCliente);
             this.Controls.Add(this._lbApellidoCliente);
             this.Controls.Add(this._txbNombreCliente);
             this.Controls.Add(this._lbNombrecliente);
             this.Controls.Add(this._rbClienteActivo);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this._txtFechaNac);
             this.Controls.Add(this._lbFecNac);
             this.Controls.Add(this._txbEmail);
             this.Controls.Add(this._lbEmail);
@@ -259,14 +260,14 @@ namespace ClienteCapaPresentacion
         private System.Windows.Forms.Label _lbEmail;
         private System.Windows.Forms.TextBox _txbEmail;
         private System.Windows.Forms.Label _lbFecNac;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox _txtFechaNac;
         private System.Windows.Forms.RadioButton _rbClienteActivo;
         private System.Windows.Forms.Label _lbNombrecliente;
         private System.Windows.Forms.TextBox _txbNombreCliente;
         private System.Windows.Forms.Label _lbApellidoCliente;
         private System.Windows.Forms.TextBox _txbApellidoCliente;
         private System.Windows.Forms.Label _lbDireccion;
-        private System.Windows.Forms.TextBox _txbDireccion;
+        private System.Windows.Forms.TextBox _txtDireccion;
         private System.Windows.Forms.Label _lbTelefono;
         private System.Windows.Forms.TextBox _txbTelefono;
         private System.Windows.Forms.Button _btnGuardar;

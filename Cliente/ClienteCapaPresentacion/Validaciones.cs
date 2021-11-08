@@ -10,48 +10,48 @@ namespace ClienteCapaPresentacion
     {
 		// validaciones
 		// una clase statica no necesita instanciar , que sirva de libreria final para 
-		public static string ValidarString(string mensaje, string entrada)
+		public static string ValidarString( string entrada)
 		{
-			//string salida;
-			bool flag = false;
-			
-			do
+			if (string.IsNullOrEmpty(entrada))
 			{
-				Console.WriteLine($"Ingrese {mensaje}");
-				entrada = Console.ReadLine();
-				if (string.IsNullOrEmpty(entrada))
-				{
-					Console.WriteLine($"Dato Invalido. No puede ingresar una cadena vacia");
+				throw new Exception($"Dato Invalido. No puede ingresar una cadena vacia");
 
-				}
-
-				else
-				{
-					flag = true;
-				}
-
-			} while (flag == false);
+            } 
 			return entrada;
-
 		}
 
-		/// <summary>
-		/// convertir string a fecha
-		/// </summary>
-		/// <param name="Para poder validar 
-		/// este metodo desde donde lo llamo tengo que hacer el try-catch"></param>
-		/// <returns></rey mostrar el mensaje de la excepcionturns>
+        public static long ValidarLong(string text)
+        {
+			long salida;
 
-		public static DateTime PedirFecha(string msj)
+
+			if (!long.TryParse(text, out salida))
+			{
+				throw new Exception($"Error, Debe ingresar un valor numerico");
+
+			}
+			if (salida < 0)
+			{
+				throw new Exception($"Dato Invalido. Debe ingresar un numero positivo");
+			}
+			return salida;
+		}
+
+        /// <summary>
+        /// convertir string a fecha
+        /// </summary>
+        /// <param name="Para poder validar 
+        /// este metodo desde donde lo llamo tengo que hacer el try-catch"></param>
+        /// <returns></rey mostrar el mensaje de la excepcionturns>
+
+        public static DateTime PedirFecha(string msj)
 		{
 
 			DateTime fecha = new DateTime();
-			string entrada;
-			Console.WriteLine($"{msj} con el formato [YYYY-MM-DD]");
-			entrada = Console.ReadLine();
+			
 			try
 			{
-				fecha = Convert.ToDateTime(entrada); //System.FormatException
+				fecha = Convert.ToDateTime(msj); //System.FormatException
 
 			}
 			catch (Exception)
