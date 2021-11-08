@@ -1,0 +1,11 @@
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\bin\Debug\CapaReglasNegocio.dll
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\bin\Debug\CapaReglasNegocio.pdb
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\bin\Debug\CapaClienteMapper.dll
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\bin\Debug\CapaClienteMapper.pdb
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.csproj.CopyComplete
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.dll
+C:\Users\orian\source\repos\Cliente\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.pdb

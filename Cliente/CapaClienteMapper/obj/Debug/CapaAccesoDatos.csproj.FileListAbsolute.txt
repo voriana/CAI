@@ -1,0 +1,9 @@
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\bin\Debug\CapaClienteMapper.dll
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\bin\Debug\CapaClienteMapper.pdb
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\bin\Debug\CapaEntidades.dll
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\bin\Debug\CapaEntidades.pdb
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\obj\Debug\CapaClienteMapper.dll
+C:\Users\orian\source\repos\Cliente\CapaClienteMapper\obj\Debug\CapaClienteMapper.pdb
