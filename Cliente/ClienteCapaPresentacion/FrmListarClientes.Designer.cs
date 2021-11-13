@@ -30,7 +30,7 @@ namespace ClienteCapaPresentacion
         private void InitializeComponent()
         {
             this._lstClientes = new System.Windows.Forms.ListBox();
-            this._btnDetalleCliente = new System.Windows.Forms.Button();
+            this._btnRefrescarLista = new System.Windows.Forms.Button();
             this._btnAgregarCliente = new System.Windows.Forms.Button();
             this._btnModificarCliente = new System.Windows.Forms.Button();
             this._btnEliminarCliente = new System.Windows.Forms.Button();
@@ -45,14 +45,15 @@ namespace ClienteCapaPresentacion
             this._lstClientes.Size = new System.Drawing.Size(261, 147);
             this._lstClientes.TabIndex = 0;
             // 
-            // _btnDetalleCliente
+            // _btnRefrescarLista
             // 
-            this._btnDetalleCliente.Location = new System.Drawing.Point(74, 273);
-            this._btnDetalleCliente.Name = "_btnDetalleCliente";
-            this._btnDetalleCliente.Size = new System.Drawing.Size(116, 23);
-            this._btnDetalleCliente.TabIndex = 1;
-            this._btnDetalleCliente.Text = "Ver detalle";
-            this._btnDetalleCliente.UseVisualStyleBackColor = true;
+            this._btnRefrescarLista.Location = new System.Drawing.Point(74, 273);
+            this._btnRefrescarLista.Name = "_btnRefrescarLista";
+            this._btnRefrescarLista.Size = new System.Drawing.Size(116, 23);
+            this._btnRefrescarLista.TabIndex = 1;
+            this._btnRefrescarLista.Text = "Refrescar";
+            this._btnRefrescarLista.UseVisualStyleBackColor = true;
+            this._btnRefrescarLista.Click += new System.EventHandler(this._btnRefrescarLista_Click);
             // 
             // _btnAgregarCliente
             // 
@@ -101,7 +102,7 @@ namespace ClienteCapaPresentacion
             this.Controls.Add(this._btnEliminarCliente);
             this.Controls.Add(this._btnModificarCliente);
             this.Controls.Add(this._btnAgregarCliente);
-            this.Controls.Add(this._btnDetalleCliente);
+            this.Controls.Add(this._btnRefrescarLista);
             this.Controls.Add(this._lstClientes);
             this.Name = "FrmListarClientes";
             this.Text = "Listar Clientes";
@@ -113,7 +114,7 @@ namespace ClienteCapaPresentacion
         #endregion
 
         private System.Windows.Forms.ListBox _lstClientes;
-        private System.Windows.Forms.Button _btnDetalleCliente;
+        private System.Windows.Forms.Button _btnRefrescarLista;
         private System.Windows.Forms.Button _btnAgregarCliente;
         private System.Windows.Forms.Button _btnModificarCliente;
         private System.Windows.Forms.Button _btnEliminarCliente;

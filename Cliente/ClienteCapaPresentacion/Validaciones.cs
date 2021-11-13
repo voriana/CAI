@@ -14,13 +14,16 @@ namespace ClienteCapaPresentacion
 		{
 			if (string.IsNullOrEmpty(entrada))
 			{
+				
 				throw new Exception($"Dato Invalido. No puede ingresar una cadena vacia");
 
             } 
 			return entrada;
 		}
 
-        public static long ValidarLong(string text)
+	
+
+		public static long ValidarLong(string text)
         {
 			long salida;
 

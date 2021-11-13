@@ -53,6 +53,13 @@ namespace ClienteCapaPresentacion
             string direccion = Validaciones.ValidarString(_txtDireccion.Text);
             string telefono = Validaciones.ValidarString(_txbTelefono.Text);
 
+
+            if (string.IsNullOrEmpty(_txbIdCliente.Text) || string.IsNullOrWhiteSpace(_txbIdCliente.Text))
+            {
+                _txbIdCliente.BackColor = Color.Red;
+
+            }
+
             
             Cliente cliente = new Cliente(id, cuit, email, fechaNac, activo, nombre, apellido, new TipoDocumento(1, "Cuit"), direccion, telefono);
             return cliente;
@@ -62,6 +69,14 @@ namespace ClienteCapaPresentacion
         {
             this.Hide();
             this.Owner.Show();
+        }
+
+        private void _txbIdCliente_TextChanged(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(_txbIdCliente.Text))
+            {
+                _txbIdCliente.BackColor = Color.Red;
+            }
         }
     }
 

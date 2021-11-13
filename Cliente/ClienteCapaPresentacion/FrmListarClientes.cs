@@ -15,6 +15,7 @@ namespace ClienteCapaPresentacion
     {
         private ClienteServicio _clienteServicio;
         private FrmAgregarCliente _FrmAgregarCliente;
+        
         public FrmListarClientes(FrmMaster frmPrincipal)
         {
             InitializeComponent();
@@ -45,6 +46,11 @@ namespace ClienteCapaPresentacion
         {
             _FrmAgregarCliente.Show();
             this.Hide();
+        }
+
+        private void _btnRefrescarLista_Click(object sender, EventArgs e)
+        {
+          
         }
     }
 }

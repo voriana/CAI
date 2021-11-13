@@ -6,19 +6,22 @@ using System.Threading.Tasks;
 using CapaEntidades;
 using CapaAccesoDatos;
 
+
 namespace CapaReglasNegocio
 {
     public class ClienteServicio
     {
         private ClienteMapper _clienteMapper;
+        private ClienteMapperHTTP _clienteMapperHttp;
 
         public ClienteServicio()
         {
             _clienteMapper = new ClienteMapper();
+            _clienteMapperHttp = new ClienteMapperHTTP();
         }
         public List<Cliente> GetClientes()
         {
-            return _clienteMapper.TraerClientes();
+            return _clienteMapperHttp.TraerClientes("Cliente");
         }
 
       

@@ -66,6 +66,7 @@ namespace ClienteCapaPresentacion
             this._txbIdCliente.Name = "_txbIdCliente";
             this._txbIdCliente.Size = new System.Drawing.Size(100, 20);
             this._txbIdCliente.TabIndex = 1;
+            this._txbIdCliente.TextChanged += new System.EventHandler(this._txbIdCliente_TextChanged);
             // 
             // _lbCuit
             // 
